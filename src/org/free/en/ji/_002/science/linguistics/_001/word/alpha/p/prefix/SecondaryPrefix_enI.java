@@ -1,10 +1,11 @@
 package org.free.en.ji._002.science.linguistics._001.word.alpha.p.prefix;
 
-import org.open.en._topic.democracy.SecondaryI;
+import org.free.en.ji._002.science.linguistics._001.word.alpha.s.Secondary_enI;
+
 
 public interface SecondaryPrefix_enI 
 extends
-SecondaryI
+Secondary_enI
 ,PrefixOfLanguage_enI
 {
 

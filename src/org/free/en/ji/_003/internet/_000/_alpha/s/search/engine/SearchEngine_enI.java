@@ -1,7 +1,8 @@
 package org.free.en.ji._003.internet._000._alpha.s.search.engine;
 
-import org.open.en._topic.science.engineering.word.alpha.e.Engine_enI;
-import org.open.en._topic.science.philosophy.word.alpha.s.Search_enI;
+import org.free.en.ji._001.topic.human._alpha.a.activity._000._alpha.s.Search_enI;
+import org.free.en.ji._002.science.engineering._000._alpha.e.Engine_enI;
+
 
 public interface SearchEngine_enI 
 extends

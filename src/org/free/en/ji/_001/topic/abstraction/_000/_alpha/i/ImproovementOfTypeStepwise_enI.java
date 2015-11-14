@@ -1,6 +1,7 @@
 package org.free.en.ji._001.topic.abstraction._000._alpha.i;
 
-import com.abelot.en._topic.abstraction.word.alpha.o.of.OfTypeStepwise_enI;
+import org.free.en.ji._001.topic.abstraction._000._alpha.o.of.OfTypeStepwise_enI;
+
 
 public interface ImproovementOfTypeStepwise_enI
 extends

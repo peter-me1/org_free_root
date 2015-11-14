@@ -1,11 +1,12 @@
 package org.free.en.ji._001.topic.project_of_team._000._alfa.c;
 
-import org.open.en._topic.project_of_team.word.alfa.g.Goal_enI;
-import org.open.p010.user.de.rme.prep.P020.rme.word.alfa.en.f.films_with_Animatic.CentralI;
+import org.free.en.ji._001.topic.abstraction._000._alpha.c.Central_enI;
+import org.free.en.ji._001.topic.project_of_team._000._alfa.g.Goal_enI;
+
 
 public interface CentralGoalI 
 extends
-CentralI
+Central_enI
 ,Goal_enI
 {
 

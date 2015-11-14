@@ -6,7 +6,7 @@ import org.open.en._topic.science.linguistics._01.word.alpha.l.language.Language
 public interface English_enI 
 extends 
 LanguageOfCountry_enI
-,IshPostfix_enI
+//,IshPostfix_enI
 
 {
 
