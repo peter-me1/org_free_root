@@ -6,10 +6,10 @@ If it gets the size i expect then great things will be possible in near future.
 Think for what wikipedia , google and the internet has already done for us.
 
 The package name "ji" stands for "java interface library"
-Other languages will follow !
-(Der deutsche Bereich wurde soeben eröffnet)
+Java interfaces for other languages will follow ...
+( Der deutsche Bereich wurde soeben eröffnet / the german namespace has just opened )
 
-Other programming languages will follow !
+Other programming language interfaces will follow soon by automatic code generation. 
 
-Any comment is welcome. 
+We welcome any comment. 
 
